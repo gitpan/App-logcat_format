@@ -36,7 +36,7 @@ Formats the output of android 'adb logcat' command
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =cut
 
