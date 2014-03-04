@@ -9,12 +9,12 @@ A tool to pretty print the output of the android sdk 'adb logcat' command.
 Before 
 
 <p><img src="https://raw.github.com/vichou/App-logcat_format/master/screenshots/before.png"
-width="500" height="250" alt="Before" /></p>
+alt="Before" /></p>
 
 After
 
 <p><img src="https://raw.github.com/vichou/App-logcat_format/master/screenshots/after.png"
-width="500" height="250" alt="Before" /></p>
+alt="Before" /></p>
 
 ### SYNOPSIS
 
@@ -37,4 +37,4 @@ For other adb logcat commands, just pipe into logcat_format ..
 
 ### VERSION
 
-version 0.04
+version 0.05
